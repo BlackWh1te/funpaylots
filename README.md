@@ -6,6 +6,7 @@
 ![FunPay](https://img.shields.io/badge/FunPay-Лоты-orange?style=for-the-badge)
 ![Templates](https://img.shields.io/badge/Шаблонов-12-green?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Языки-RU%20%2F%20EN-blue?style=for-the-badge)
+[![Website](https://img.shields.io/badge/Сайт-gserver.online-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gserver.online/)
 
 **Готовые описания лотов + Инструкция по автодоставке для продавцов FunPay**
 
@@ -58,20 +59,22 @@ FunPay автоматически отправляет покупателю сс
 
 ## 🎮 Список шаблонов
 
-| № | Эмодзи | Шаблон | Описание |
-|---|--------|--------|----------|
-| 1 | 🎥 | YouTube / Twitch | Для стримеров и ютуберов |
-| 2 | 🛒 | Магазин / Фриланс | Для онлайн-магазинов и фрилансеров |
-| 3 | 🌸 | Аниме | Для аниме-сообществ |
-| 4 | 🌍 | Общение (Паблик) | Универсальный публичный сервер |
-| 5 | 🎯 | Apex Legends | Клан / сообщество Apex Legends |
-| 6 | 🔫 | Valorant | Клан / сообщество Valorant |
-| 7 | 💣 | CS2 | Клан / сообщество CS2 |
-| 8 | ⛏️ | Minecraft | Minecraft сервер или сообщество |
-| 9 | 🚗 | GTA V / SAMP | RP-сервер GTA V / SAMP |
-| 10 | 📱 | Mobile Legends | Клан / сообщество Mobile Legends |
-| 11 | 🧱 | Roblox | Для Roblox сообществ и игровых групп |
-| 12 | ☢️ | Rust | Клан / сообщество Rust |
+| № | Эмодзи | Шаблон | Описание | 💰 Цена |
+|---|--------|--------|----------|---------|
+| 1 | 🎥 | YouTube / Twitch | Для стримеров и ютуберов | 79 ₽ |
+| 2 | 🛒 | Магазин / Фриланс | Для онлайн-магазинов и фрилансеров | 89 ₽ |
+| 3 | 🌸 | Аниме | Для аниме-сообществ | 69 ₽ |
+| 4 | 🌍 | Общение (Паблик) | Универсальный публичный сервер | 59 ₽ |
+| 5 | 🎯 | Apex Legends | Клан / сообщество Apex Legends | 99 ₽ |
+| 6 | 🔫 | Valorant | Клан / сообщество Valorant | 99 ₽ |
+| 7 | 💣 | CS2 | Клан / сообщество CS2 | 99 ₽ |
+| 8 | ⛏️ | Minecraft | Minecraft сервер или сообщество | 79 ₽ |
+| 9 | 🚗 | GTA V / SAMP | RP-сервер GTA V / SAMP | 89 ₽ |
+| 10 | 📱 | Mobile Legends | Клан / сообщество Mobile Legends | 89 ₽ |
+| 11 | 🧱 | Roblox | Для Roblox сообществ и игровых групп | 69 ₽ |
+| 12 | ☢️ | Rust | Клан / сообщество Rust | 99 ₽ |
+
+> 💡 **Рекомендация:** Игровые шаблоны (CS2, Valorant, Apex, Rust) ставьте дороже — спрос на них выше.
 
 > Все шаблоны доступны на **🇷🇺 Русском** и **🇬🇧 Английском** языках.
 
@@ -847,5 +850,7 @@ https://discord.com/api/oauth2/authorize?client_id=1517454018547417148&permissio
 <div align="center">
 
 **G-SERVER Bot © 2026** | *Сделано для продавцов FunPay*
+
+🌐 **Сайт:** [gserver.online](https://gserver.online/)
 
 </div>
