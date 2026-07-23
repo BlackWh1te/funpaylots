@@ -1,5 +1,6 @@
 # 📦 G-SERVER — Руководство для продавцов FunPay
 
+[🇬🇧 View in English](README_EN.md)
 <div align="center">
 
 ![G-SERVER](https://img.shields.io/badge/G--SERVER-Bot-blueviolet?style=for-the-badge&logo=discord&logoColor=white)
