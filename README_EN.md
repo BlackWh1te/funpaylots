@@ -180,304 +180,702 @@ The bot has a **web control panel** on the website [gserver.online](https://gser
 ---
 
 ### 🎥 Lot 1 — YouTube / Twitch
+
+<details>
+<summary>🇷🇺 Russian version — click to expand</summary>
+
 ```
-🎥 READY DISCORD SERVER — YouTube / Twitch | Auto-bot (EN)
+🎥 ГОТОВЫЙ DISCORD СЕРВЕР — YouTube / Twitch | Авто-установка ботом
 
-✅ Full Discord server setup in a few seconds!
-✅ Professional channel structure for streamers and content creators
-✅ Roles, categories, automoderation — all included
-✅ No waiting — everything is installed automatically!
+✅ Полная настройка вашего Discord сервера за несколько секунд!
+✅ Профессиональная структура каналов под стримеров и ютуберов
+✅ Роли, категории, автомодерация — всё включено
+✅ Без ожидания — всё устанавливается автоматически!
 
-📦 WHAT'S INCLUDED:
-• Categories and channels: new-videos, streams, video-ideas
-• Ready role hierarchy (Owner, Manager, Moderator, VIP, Member)
-• Protection against spam and toxicity
-• Ticket system, verification, and role assignment
-• 30 days of Premium for free!
+📦 ЧТО ВХОДИТ:
+• Категории и каналы под контент (новые видео, стримы, идеи)
+• Готовая иерархия ролей (Владелец, Менеджер, Модератор, VIP, Участник)
+• Автомодерация от спама и матов
+• Система тикетов, верификации и выдачи ролей
+• 30 дней Premium бесплатно!
 
-⚡ HOW TO GET IT:
-1. Add the bot to an empty server via the auto-delivery link
-2. Type the command !wizard
-3. Select language 🇬🇧 and the "YouTube / Twitch" template
-4. Done! The entire server is set up automatically 🎉
+⚡ КАК ПОЛУЧИТЬ:
+1. Добавьте бота на ваш пустой сервер по ссылке из автодоставки
+2. Введите команду !wizard
+3. Выберите язык 🇷🇺 и шаблон "YouTube / Twitch"
+4. Готово! Весь сервер настроен автоматически 🎉
 ```
+
+</details>
+
+<details>
+<summary>🇬🇧 English version — click to expand</summary>
+
+```
+🎥 ГОТОВЫЙ DISCORD СЕРВЕР — YouTube / Twitch | Авто-бот (EN)
+
+✅ Полная настройка Discord сервера за несколько секунд!
+✅ Профессиональная структура каналов для стримеров и создателей контента
+✅ Роли, категории, автомодерация — всё включено
+✅ Без ожидания — всё устанавливается автоматически!
+
+📦 ЧТО ВХОДИТ:
+• Категории и каналы: new-videos, streams, video-ideas
+• Готовая иерархия ролей (Owner, Manager, Moderator, VIP, Member)
+• Защита от спама и токсичности
+• Система тикетов, верификации и назначения ролей
+• 30 дней Premium бесплатно!
+
+⚡ КАК ПОЛУЧИТЬ:
+1. Добавьте бота на пустой сервер по ссылке из автодоставки
+2. Введите команду !wizard
+3. Выберите язык 🇬🇧 и шаблон "YouTube / Twitch"
+4. Готово! Весь сервер настроен автоматически 🎉
+```
+
+</details>
 
 ---
 
-### 🛒 Lot 2 — Shop / Freelance
+### 🛒 Lot 2 — Магазин / Фриланс
+
+<details>
+<summary>🇷🇺 Russian version — click to expand</summary>
+
 ```
-🛒 READY DISCORD SERVER — Shop / Freelance | Auto-bot (EN)
+🛒 ГОТОВЫЙ DISCORD СЕРВЕР — Магазин / Фриланс | Авто-установка ботом
 
-✅ Professional server structure for an online shop or freelance services
-✅ Channels for showcase, reviews, payment, and support
-✅ Ready ticket system for orders
-✅ No waiting — everything is installed automatically!
+✅ Профессиональная структура сервера для онлайн-магазина или фриланс-услуг
+✅ Каналы для витрины товаров, отзывов, оплаты и поддержки
+✅ Готовая система тикетов для заказов
+✅ Без ожидания — всё устанавливается автоматически!
 
-📦 WHAT'S INCLUDED:
-• Categories: Showcase, Orders, Reviews, Support
-• Ready role hierarchy (Owner, Manager, Customer, VIP)
-• Ticket system for taking orders
-• Automoderation, verification, reaction roles
-• 30 days of Premium for free!
+📦 ЧТО ВХОДИТ:
+• Категории: Витрина, Заказы, Отзывы, Поддержка
+• Готовая иерархия ролей (Владелец, Менеджер, Клиент, VIP)
+• Система тикетов для приёма заказов
+• Автомодерация, верификация, реакционные роли
+• 30 дней Premium бесплатно!
 
-⚡ HOW TO GET IT:
-1. Add the bot to an empty server via the auto-delivery link
-2. Type the command !wizard
-3. Select language 🇬🇧 and the "Shop / Freelance" template
-4. Done! 🎉
+⚡ КАК ПОЛУЧИТЬ:
+1. Добавьте бота на ваш пустой сервер по ссылке из автодоставки
+2. Введите команду !wizard
+3. Выберите язык 🇷🇺 и шаблон "Магазин / Фриланс"
+4. Готово! 🎉
 ```
+
+</details>
+
+<details>
+<summary>🇬🇧 English version — click to expand</summary>
+
+```
+🛒 ГОТОВЫЙ DISCORD СЕРВЕР — Магазин / Фриланс | Авто-бот (EN)
+
+✅ Профессиональная структура сервера для онлайн-магазина или фриланс-услуг
+✅ Каналы для витрины, отзывов, оплаты и поддержки
+✅ Готовая система тикетов для заказов
+✅ Без ожидания — всё устанавливается автоматически!
+
+📦 ЧТО ВХОДИТ:
+• Категории: Showcase, Orders, Reviews, Support
+• Готовая иерархия ролей (Owner, Manager, Customer, VIP)
+• Система тикетов для приёма заказов
+• Автомодерация, верификация, реакционные роли
+• 30 дней Premium бесплатно!
+
+⚡ КАК ПОЛУЧИТЬ:
+1. Добавьте бота на пустой сервер по ссылке из автодоставки
+2. Введите команду !wizard
+3. Выберите язык 🇬🇧 и шаблон "Shop / Freelance"
+4. Готово! 🎉
+```
+
+</details>
 
 ---
 
-### 🌸 Lot 3 — Anime
+### 🌸 Lot 3 — Аниме
+
+<details>
+<summary>🇷🇺 Russian version — click to expand</summary>
+
 ```
-🌸 READY DISCORD SERVER — Anime | Auto-bot (EN)
+🌸 ГОТОВЫЙ DISCORD СЕРВЕР — Аниме | Авто-установка ботом
 
-✅ Perfect structure for an anime community!
-✅ Channels for discussions, art, recommendations, and fandoms
-✅ Cozy atmosphere with ready roles and categories
-✅ No waiting — everything is installed automatically!
+✅ Идеальная структура для аниме-сообщества!
+✅ Каналы для обсуждений, арта, рекомендаций и фандомов
+✅ Уютная атмосфера с готовыми ролями и категориями
+✅ Без ожидания — всё устанавливается автоматически!
 
-📦 WHAT'S INCLUDED:
-• Categories: Anime Chat, Art, Recommendations, Fandoms
-• Interest-based roles (Naruto, Demon Slayer, AOT, etc.)
-• Ticket system, verification, reaction roles
-• Automoderation and content filter
-• 30 days of Premium for free!
+📦 ЧТО ВХОДИТ:
+• Категории: Аниме-чат, Арт, Рекомендации, Фандомы
+• Система ролей по интересам (Наруто, Клинок демона, AOT и др.)
+• Система тикетов, верификации, реакционные роли
+• Автомодерация и 18+ фильтр
+• 30 дней Premium бесплатно!
 
-⚡ HOW TO GET IT:
-1. Add the bot to an empty server via the auto-delivery link
-2. Type the command !wizard
-3. Select language 🇬🇧 and the "Anime" template
-4. Done! 🎉
+⚡ КАК ПОЛУЧИТЬ:
+1. Добавьте бота на ваш пустой сервер по ссылке из автодоставки
+2. Введите команду !wizard
+3. Выберите язык 🇷🇺 и шаблон "Аниме"
+4. Готово! 🎉
 ```
+
+</details>
+
+<details>
+<summary>🇬🇧 English version — click to expand</summary>
+
+```
+🌸 ГОТОВЫЙ DISCORD СЕРВЕР — Аниме | Авто-бот (EN)
+
+✅ Идеальная структура для аниме-сообщества!
+✅ Каналы для обсуждений, арта, рекомендаций и фандомов
+✅ Уютная атмосфера с готовыми ролями и категориями
+✅ Без ожидания — всё устанавливается автоматически!
+
+📦 ЧТО ВХОДИТ:
+• Категории: Anime Chat, Art, Recommendations, Fandoms
+• Роли по интересам (Naruto, Demon Slayer, AOT и др.)
+• Система тикетов, верификации, реакционные роли
+• Автомодерация и фильтр контента
+• 30 дней Premium бесплатно!
+
+⚡ КАК ПОЛУЧИТЬ:
+1. Добавьте бота на пустой сервер по ссылке из автодоставки
+2. Введите команду !wizard
+3. Выберите язык 🇬🇧 и шаблон "Anime"
+4. Готово! 🎉
+```
+
+</details>
 
 ---
 
-### 🌍 Lot 4 — Community (Public)
+### 🌍 Lot 4 — Общение (Паблик)
+
+<details>
+<summary>🇷🇺 Russian version — click to expand</summary>
+
 ```
-🌍 READY DISCORD SERVER — Community | Auto-bot (EN)
+🌍 ГОТОВЫЙ DISCORD СЕРВЕР — Общение (Паблик) | Авто-установка ботом
 
-✅ Universal server for a large community!
-✅ Full structure: news, chats, voice channels, media
-✅ Professional roles and moderation system
-✅ No waiting — everything is installed automatically!
+✅ Универсальный сервер для большого сообщества!
+✅ Полная структура: новости, чаты, голосовые каналы, медиа
+✅ Профессиональные роли и система модерации
+✅ Без ожидания — всё устанавливается автоматически!
 
-📦 WHAT'S INCLUDED:
-• Categories: Information, Community, Media, Staff
-• Leveling, economy, giveaway systems
-• Tickets, verification, automoderation
-• Reaction roles for self-assignment
-• 30 days of Premium for free!
+📦 ЧТО ВХОДИТ:
+• Категории: Информация, Общение, Медиа, Персонал
+• Система уровней, экономики, розыгрышей
+• Тикеты, верификация, автомодерация
+• Реакционные роли для самовыдачи
+• 30 дней Premium бесплатно!
 
-⚡ HOW TO GET IT:
-1. Add the bot to an empty server via the auto-delivery link
-2. Type the command !wizard
-3. Select language 🇬🇧 and the "Community" template
-4. Done! 🎉
+⚡ КАК ПОЛУЧИТЬ:
+1. Добавьте бота на ваш пустой сервер по ссылке из автодоставки
+2. Введите команду !wizard
+3. Выберите язык 🇷🇺 и шаблон "Общение (Паблик)"
+4. Готово! 🎉
 ```
+
+</details>
+
+<details>
+<summary>🇬🇧 English version — click to expand</summary>
+
+```
+🌍 ГОТОВЫЙ DISCORD СЕРВЕР — Сообщество | Авто-бот (EN)
+
+✅ Универсальный сервер для большого сообщества!
+✅ Полная структура: новости, чаты, голосовые каналы, медиа
+✅ Профессиональные роли и система модерации
+✅ Без ожидания — всё устанавливается автоматически!
+
+📦 ЧТО ВХОДИТ:
+• Категории: Information, Community, Media, Staff
+• Система уровней, экономики, розыгрышей
+• Тикеты, верификация, автомодерация
+• Реакционные роли для самовыдачи
+• 30 дней Premium бесплатно!
+
+⚡ КАК ПОЛУЧИТЬ:
+1. Добавьте бота на пустой сервер по ссылке из автодоставки
+2. Введите команду !wizard
+3. Выберите язык 🇬🇧 и шаблон "Community"
+4. Готово! 🎉
+```
+
+</details>
 
 ---
 
 ### 🎯 Lot 5 — Apex Legends
+
+<details>
+<summary>🇷🇺 Russian version — click to expand</summary>
+
 ```
-🎯 READY DISCORD SERVER — Apex Legends | Auto-bot (EN)
+🎯 ГОТОВЫЙ DISCORD СЕРВЕР — Apex Legends | Авто-установка ботом
 
-✅ Ready structure for an Apex Legends clan or community!
-✅ Channels for ranked play, searching for teammates, and tournaments
-✅ Professional rank roles (Bronze → Predator)
-✅ No waiting — everything is installed automatically!
+✅ Готовая структура для клана или сообщества Apex Legends!
+✅ Каналы для рейтинга, поиска тимейтов, стратегий и турниров
+✅ Профессиональные роли по рангам (Бронза → Предикатор)
+✅ Без ожидания — всё устанавливается автоматически!
 
-📦 WHAT'S INCLUDED:
-• Categories: Ranked Lobbies, Pubs, Tournaments, Strategies
-• Rank roles (Bronze, Silver, Gold, Platinum, Diamond, Predator)
-• Ticket system and verification
-• Voice channels for squads (Duo, Trio)
-• 30 days of Premium for free!
+📦 ЧТО ВХОДИТ:
+• Категории: Ранговые лобби, Пабы, Турниры, Стратегии
+• Роли по рангу (Bronze, Silver, Gold, Platinum, Diamond, Predator)
+• Система тикетов и верификации
+• Голосовые каналы для отрядов (Дуо, Трио)
+• 30 дней Premium бесплатно!
 
-⚡ HOW TO GET IT:
-1. Add the bot to an empty server via the auto-delivery link
-2. Type the command !wizard
-3. Select language 🇬🇧 and the "Apex Legends" template
-4. Done! 🎉
+⚡ КАК ПОЛУЧИТЬ:
+1. Добавьте бота на ваш пустой сервер по ссылке из автодоставки
+2. Введите команду !wizard
+3. Выберите язык 🇷🇺 и шаблон "Apex Legends"
+4. Готово! 🎉
 ```
+
+</details>
+
+<details>
+<summary>🇬🇧 English version — click to expand</summary>
+
+```
+🎯 ГОТОВЫЙ DISCORD СЕРВЕР — Apex Legends | Авто-бот (EN)
+
+✅ Готовая структура для клана или сообщества Apex Legends!
+✅ Каналы для ранковой игры, поиска напарников и турниров
+✅ Профессиональные роли по рангам (Bronze → Predator)
+✅ Без ожидания — всё устанавливается автоматически!
+
+📦 ЧТО ВХОДИТ:
+• Категории: Ranked Lobbies, Pubs, Tournaments, Strategies
+• Роли по рангу (Bronze, Silver, Gold, Platinum, Diamond, Predator)
+• Система тикетов и верификации
+• Голосовые каналы для отрядов (Duo, Trio)
+• 30 дней Premium бесплатно!
+
+⚡ КАК ПОЛУЧИТЬ:
+1. Добавьте бота на пустой сервер по ссылке из автодоставки
+2. Введите команду !wizard
+3. Выберите язык 🇬🇧 и шаблон "Apex Legends"
+4. Готово! 🎉
+```
+
+</details>
 
 ---
 
 ### 🔫 Lot 6 — Valorant
+
+<details>
+<summary>🇷🇺 Russian version — click to expand</summary>
+
 ```
-🔫 READY DISCORD SERVER — Valorant | Auto-bot (EN)
+🔫 ГОТОВЫЙ DISCORD СЕРВЕР — Valorant | Авто-установка ботом
 
-✅ Perfect structure for a Valorant clan or community!
-✅ Channels for ranked lobbies, agent guides, strategies, and tournaments
-✅ Rank roles (Iron → Radiant)
-✅ No waiting — everything is installed automatically!
+✅ Идеальная структура для клана или сообщества Valorant!
+✅ Каналы для ранговых лобби, агентов, стратегий, турниров
+✅ Роли по рангам (Железо → Радиант)
+✅ Без ожидания — всё устанавливается автоматически!
 
-📦 WHAT'S INCLUDED:
-• Categories: Ranked Lobbies, Unrated, Strategies, Staff
-• Rank roles (Iron, Bronze, Silver → Radiant)
-• Ticket system, verification, automoderation
-• Voice channels for teams (5 players)
-• 30 days of Premium for free!
+📦 ЧТО ВХОДИТ:
+• Категории: Ранговые лобби, Анскейт, Стратегии, Персонал
+• Роли по рангу (Iron, Bronze, Silver → Radiant)
+• Система тикетов, верификации, автомодерация
+• Голосовые каналы для команд (по 5 игроков)
+• 30 дней Premium бесплатно!
 
-⚡ HOW TO GET IT:
-1. Add the bot to an empty server via the auto-delivery link
-2. Type the command !wizard
-3. Select language 🇬🇧 and the "Valorant" template
-4. Done! 🎉
+⚡ КАК ПОЛУЧИТЬ:
+1. Добавьте бота на ваш пустой сервер по ссылке из автодоставки
+2. Введите команду !wizard
+3. Выберите язык 🇷🇺 и шаблон "Valorant"
+4. Готово! 🎉
 ```
+
+</details>
+
+<details>
+<summary>🇬🇧 English version — click to expand</summary>
+
+```
+🔫 ГОТОВЫЙ DISCORD СЕРВЕР — Valorant | Авто-бот (EN)
+
+✅ Идеальная структура для клана или сообщества Valorant!
+✅ Каналы для ранковых лобби, гайдов по агентам, стратегий и турниров
+✅ Роли по рангам (Iron → Radiant)
+✅ Без ожидания — всё устанавливается автоматически!
+
+📦 ЧТО ВХОДИТ:
+• Категории: Ranked Lobbies, Unrated, Strategies, Staff
+• Роли по рангу (Iron, Bronze, Silver → Radiant)
+• Система тикетов, верификации, автомодерация
+• Голосовые каналы для команд (по 5 игроков)
+• 30 дней Premium бесплатно!
+
+⚡ КАК ПОЛУЧИТЬ:
+1. Добавьте бота на пустой сервер по ссылке из автодоставки
+2. Введите команду !wizard
+3. Выберите язык 🇬🇧 и шаблон "Valorant"
+4. Готово! 🎉
+```
+
+</details>
 
 ---
 
 ### 💣 Lot 7 — CS2
+
+<details>
+<summary>🇷🇺 Russian version — click to expand</summary>
+
 ```
-💣 READY DISCORD SERVER — CS2 | Auto-bot (EN)
+💣 ГОТОВЫЙ DISCORD СЕРВЕР — CS2 | Авто-установка ботом
 
-✅ Professional structure for a CS2 clan or community!
-✅ Channels for ranked lobbies, Premier, practice, and tournaments
-✅ Rank roles (Silver → Global Elite)
-✅ No waiting — everything is installed automatically!
+✅ Профессиональная структура для клана или сообщества CS2!
+✅ Каналы для ранговых лобби, Premier, тренировок и турниров
+✅ Роли по рангам (Серебро → Глобал)
+✅ Без ожидания — всё устанавливается автоматически!
 
-📦 WHAT'S INCLUDED:
-• Categories: Rating, Premier, Training, Tournaments, Staff
-• Rank roles (Silver, Gold Nova → Global Elite)
-• Voice channels for teams (5 players)
-• Ticket system, verification, automoderation
-• 30 days of Premium for free!
+📦 ЧТО ВХОДИТ:
+• Категории: Рейтинг, Premier, Тренировки, Турниры, Персонал
+• Роли по рангу (Silver, Gold Nova → Global Elite)
+• Голосовые каналы для команд (по 5 игроков)
+• Система тикетов, верификации, автомодерация
+• 30 дней Premium бесплатно!
 
-⚡ HOW TO GET IT:
-1. Add the bot to an empty server via the auto-delivery link
-2. Type the command !wizard
-3. Select language 🇬🇧 and the "CS2" template
-4. Done! 🎉
+⚡ КАК ПОЛУЧИТЬ:
+1. Добавьте бота на ваш пустой сервер по ссылке из автодоставки
+2. Введите команду !wizard
+3. Выберите язык 🇷🇺 и шаблон "CS2"
+4. Готово! 🎉
 ```
+
+</details>
+
+<details>
+<summary>🇬🇧 English version — click to expand</summary>
+
+```
+💣 ГОТОВЫЙ DISCORD СЕРВЕР — CS2 | Авто-бот (EN)
+
+✅ Профессиональная структура для клана или сообщества CS2!
+✅ Каналы для ранковых лобби, Premier, тренировок и турниров
+✅ Роли по рангам (Silver → Global Elite)
+✅ Без ожидания — всё устанавливается автоматически!
+
+📦 ЧТО ВХОДИТ:
+• Категории: Rating, Premier, Training, Tournaments, Staff
+• Роли по рангу (Silver, Gold Nova → Global Elite)
+• Голосовые каналы для команд (по 5 игроков)
+• Система тикетов, верификации, автомодерация
+• 30 дней Premium бесплатно!
+
+⚡ КАК ПОЛУЧИТЬ:
+1. Добавьте бота на пустой сервер по ссылке из автодоставки
+2. Введите команду !wizard
+3. Выберите язык 🇬🇧 и шаблон "CS2"
+4. Готово! 🎉
+```
+
+</details>
 
 ---
 
 ### ⛏️ Lot 8 — Minecraft
+
+<details>
+<summary>🇷🇺 Russian version — click to expand</summary>
+
 ```
-⛏️ READY DISCORD SERVER — Minecraft | Auto-bot (EN)
+⛏️ ГОТОВЫЙ DISCORD СЕРВЕР — Minecraft | Авто-установка ботом
 
-✅ Perfect structure for a Minecraft server or community!
-✅ Channels for game modes, help, events, and survival
-✅ Convenient structure for players and staff
-✅ No waiting — everything is installed automatically!
+✅ Идеальная структура для Minecraft сервера или сообщества!
+✅ Каналы для игровых режимов, помощи, ивентов и выживания
+✅ Удобная структура для игроков и персонала сервера
+✅ Без ожидания — всё устанавливается автоматически!
 
-📦 WHAT'S INCLUDED:
-• Categories: Survival, Mini-games, Events, Help, Staff
-• Roles (Creator, Admin, Moderator, VIP, Player)
-• Channels: reports, suggestions, rules, mode-specific chats
-• Ticket system, verification, automoderation
-• 30 days of Premium for free!
+📦 ЧТО ВХОДИТ:
+• Категории: Выживание, Мини-игры, Ивенты, Помощь, Персонал
+• Роли (Создатель, Администратор, Модератор, VIP, Игрок)
+• Каналы: жалобы, предложения, правила, чаты по режимам
+• Система тикетов, верификации, автомодерация
+• 30 дней Premium бесплатно!
 
-⚡ HOW TO GET IT:
-1. Add the bot to an empty server via the auto-delivery link
-2. Type the command !wizard
-3. Select language 🇬🇧 and the "Minecraft" template
-4. Done! 🎉
+⚡ КАК ПОЛУЧИТЬ:
+1. Добавьте бота на ваш пустой сервер по ссылке из автодоставки
+2. Введите команду !wizard
+3. Выберите язык 🇷🇺 и шаблон "Minecraft"
+4. Готово! 🎉
 ```
+
+</details>
+
+<details>
+<summary>🇬🇧 English version — click to expand</summary>
+
+```
+⛏️ ГОТОВЫЙ DISCORD СЕРВЕР — Minecraft | Авто-бот (EN)
+
+✅ Идеальная структура для Minecraft сервера или сообщества!
+✅ Каналы для игровых режимов, помощи, ивентов и выживания
+✅ Удобная структура для игроков и персонала
+✅ Без ожидания — всё устанавливается автоматически!
+
+📦 ЧТО ВХОДИТ:
+• Категории: Survival, Mini-games, Events, Help, Staff
+• Роли (Creator, Admin, Moderator, VIP, Player)
+• Каналы: reports, suggestions, rules, mode-specific chats
+• Система тикетов, верификации, автомодерация
+• 30 дней Premium бесплатно!
+
+⚡ КАК ПОЛУЧИТЬ:
+1. Добавьте бота на пустой сервер по ссылке из автодоставки
+2. Введите команду !wizard
+3. Выберите язык 🇬🇧 и шаблон "Minecraft"
+4. Готово! 🎉
+```
+
+</details>
 
 ---
 
 ### 🚗 Lot 9 — GTA V / SAMP
+
+<details>
+<summary>🇷🇺 Russian version — click to expand</summary>
+
 ```
-🚗 READY DISCORD SERVER — GTA V / SAMP | Auto-bot (EN)
+🚗 ГОТОВЫЙ DISCORD СЕРВЕР — GTA V / SAMP | Авто-установка ботом
 
-✅ Ready structure for a GTA V / SAMP RP server or faction!
-✅ Channels for RP, organizations, events, and player management
-✅ Professional role hierarchy for an RP project
-✅ No waiting — everything is installed automatically!
+✅ Готовая структура для RP-сервера или фракции GTA V / SAMP!
+✅ Каналы для RP, организаций, ивентов и работы с игроками
+✅ Профессиональная иерархия ролей для RP проекта
+✅ Без ожидания — всё устанавливается автоматически!
 
-📦 WHAT'S INCLUDED:
-• Categories: RP Lobby, Organizations, Events, Staff
-• Roles (Leader, Admin, Curator, VIP, Player)
-• Voice lobbies for teams
-• Tickets for reports and applications, verification
-• 30 days of Premium for free!
+📦 ЧТО ВХОДИТ:
+• Категории: RP Лобби, Организации, Ивенты, Персонал
+• Роли (Глава, Администратор, Куратор, VIP, Игрок)
+• Голосовые лобби для команд
+• Тикеты для жалоб и заявок, верификация
+• 30 дней Premium бесплатно!
 
-⚡ HOW TO GET IT:
-1. Add the bot to an empty server via the auto-delivery link
-2. Type the command !wizard
-3. Select language 🇬🇧 and the "GTA V / SAMP" template
-4. Done! 🎉
+⚡ КАК ПОЛУЧИТЬ:
+1. Добавьте бота на ваш пустой сервер по ссылке из автодоставки
+2. Введите команду !wizard
+3. Выберите язык 🇷🇺 и шаблон "GTA V / SAMP"
+4. Готово! 🎉
 ```
+
+</details>
+
+<details>
+<summary>🇬🇧 English version — click to expand</summary>
+
+```
+🚗 ГОТОВЫЙ DISCORD СЕРВЕР — GTA V / SAMP | Авто-бот (EN)
+
+✅ Готовая структура для RP-сервера или фракции GTA V / SAMP!
+✅ Каналы для RP, организаций, ивентов и работы с игроками
+✅ Профессиональная иерархия ролей для RP проекта
+✅ Без ожидания — всё устанавливается автоматически!
+
+📦 ЧТО ВХОДИТ:
+• Категории: RP Lobby, Organizations, Events, Staff
+• Роли (Leader, Admin, Curator, VIP, Player)
+• Голосовые лобби для команд
+• Тикеты для жалоб и заявок, верификация
+• 30 дней Premium бесплатно!
+
+⚡ КАК ПОЛУЧИТЬ:
+1. Добавьте бота на пустой сервер по ссылке из автодоставки
+2. Введите команду !wizard
+3. Выберите язык 🇬🇧 и шаблон "GTA V / SAMP"
+4. Готово! 🎉
+```
+
+</details>
 
 ---
 
 ### 📱 Lot 10 — Mobile Legends
+
+<details>
+<summary>🇷🇺 Russian version — click to expand</summary>
+
 ```
-📱 READY DISCORD SERVER — Mobile Legends | Auto-bot (EN)
+📱 ГОТОВЫЙ DISCORD СЕРВЕР — Mobile Legends | Авто-установка ботом
 
-✅ Professional structure for a Mobile Legends clan or community!
-✅ Channels for ranked matches, guides, and PGC tournaments
-✅ Rank roles (Warrior → Mythical Immortal)
-✅ No waiting — everything is installed automatically!
+✅ Профессиональная структура для клана или сообщества Mobile Legends!
+✅ Каналы для ранговых матчей, гайдов, турниров PGC
+✅ Роли по рангам (Воин → Мифический Бессмертный)
+✅ Без ожидания — всё устанавливается автоматически!
 
-📦 WHAT'S INCLUDED:
-• Categories: Ranked Matches, Guides, PGC Tournaments, Staff
-• Rank roles (Warrior, Elite, Master → Mythical Immortal)
-• Voice lobbies for squads (5 players)
-• Tickets, verification, automoderation
-• 30 days of Premium for free!
+📦 ЧТО ВХОДИТ:
+• Категории: Ранговые матчи, Гайды, PGC Турниры, Персонал
+• Роли по рангу (Warrior, Elite, Master → Mythical Immortal)
+• Голосовые лобби для отрядов (5 игроков)
+• Тикеты, верификация, автомодерация
+• 30 дней Premium бесплатно!
 
-⚡ HOW TO GET IT:
-1. Add the bot to an empty server via the auto-delivery link
-2. Type the command !wizard
-3. Select language 🇬🇧 and the "Mobile Legends" template
-4. Done! 🎉
+⚡ КАК ПОЛУЧИТЬ:
+1. Добавьте бота на ваш пустой сервер по ссылке из автодоставки
+2. Введите команду !wizard
+3. Выберите язык 🇷🇺 и шаблон "Mobile Legends"
+4. Готово! 🎉
 ```
+
+</details>
+
+<details>
+<summary>🇬🇧 English version — click to expand</summary>
+
+```
+📱 ГОТОВЫЙ DISCORD СЕРВЕР — Mobile Legends | Авто-бот (EN)
+
+✅ Профессиональная структура для клана или сообщества Mobile Legends!
+✅ Каналы для ранговых матчей, гайдов и турниров PGC
+✅ Роли по рангам (Warrior → Mythical Immortal)
+✅ Без ожидания — всё устанавливается автоматически!
+
+📦 ЧТО ВХОДИТ:
+• Категории: Ranked Matches, Guides, PGC Tournaments, Staff
+• Роли по рангу (Warrior, Elite, Master → Mythical Immortal)
+• Голосовые лобби для отрядов (5 игроков)
+• Тикеты, верификация, автомодерация
+• 30 дней Premium бесплатно!
+
+⚡ КАК ПОЛУЧИТЬ:
+1. Добавьте бота на пустой сервер по ссылке из автодоставки
+2. Введите команду !wizard
+3. Выберите язык 🇬🇧 и шаблон "Mobile Legends"
+4. Готово! 🎉
+```
+
+</details>
 
 ---
 
 ### 🧱 Lot 11 — Roblox
+
+<details>
+<summary>🇷🇺 Russian version — click to expand</summary>
+
 ```
-🧱 READY DISCORD SERVER — Roblox | Auto-bot (EN)
+🧱 ГОТОВЫЙ DISCORD СЕРВЕР — Roblox | Авто-установка ботом
 
-✅ Perfect structure for a Roblox community or gaming group!
-✅ Channels for game discussions, tutorials, events, and help
-✅ Convenient role system for players and staff
-✅ No waiting — everything is installed automatically!
+✅ Идеальная структура для Roblox сообщества или игровой группы!
+✅ Каналы для обсуждений игр, туториалов, ивентов и помощи
+✅ Удобная система ролей для игроков и персонала
+✅ Без ожидания — всё устанавливается автоматически!
 
-📦 WHAT'S INCLUDED:
-• Categories: Games, Events, Help, Creative, Staff
-• Roles (Creator, Admin, Moderator, VIP, Player)
-• Channels: announcements, tutorials, suggestions, media
-• Ticket system, verification, automoderation
-• 30 days of Premium for free!
+📦 ЧТО ВХОДИТ:
+• Категории: Игры, Ивенты, Помощь, Творчество, Персонал
+• Роли (Создатель, Администратор, Модератор, VIP, Игрок)
+• Каналы: объявления, туториалы, предложения, медиа
+• Система тикетов, верификации, автомодерация
+• 30 дней Premium бесплатно!
 
-⚡ HOW TO GET IT:
-1. Add the bot to an empty server via the auto-delivery link
-2. Type the command !wizard
-3. Select language 🇬🇧 and the "Roblox" template
-4. Done! 🎉
+⚡ КАК ПОЛУЧИТЬ:
+1. Добавьте бота на ваш пустой сервер по ссылке из автодоставки
+2. Введите команду !wizard
+3. Выберите язык 🇷🇺 и шаблон "Roblox"
+4. Готово! 🎉
 ```
+
+</details>
+
+<details>
+<summary>🇬🇧 English version — click to expand</summary>
+
+```
+🧱 ГОТОВЫЙ DISCORD СЕРВЕР — Roblox | Авто-бот (EN)
+
+✅ Идеальная структура для Roblox сообщества или игровой группы!
+✅ Каналы для обсуждений игр, туториалов, ивентов и помощи
+✅ Удобная система ролей для игроков и персонала
+✅ Без ожидания — всё устанавливается автоматически!
+
+📦 ЧТО ВХОДИТ:
+• Категории: Games, Events, Help, Creative, Staff
+• Роли (Creator, Admin, Moderator, VIP, Player)
+• Каналы: announcements, tutorials, suggestions, media
+• Система тикетов, верификации, автомодерация
+• 30 дней Premium бесплатно!
+
+⚡ КАК ПОЛУЧИТЬ:
+1. Добавьте бота на пустой сервер по ссылке из автодоставки
+2. Введите команду !wizard
+3. Выберите язык 🇬🇧 и шаблон "Roblox"
+4. Готово! 🎉
+```
+
+</details>
 
 ---
 
 ### ☢️ Lot 12 — Rust
+
+<details>
+<summary>🇷🇺 Russian version — click to expand</summary>
+
 ```
-☢️ READY DISCORD SERVER — Rust | Auto-bot (EN)
+☢️ ГОТОВЫЙ DISCORD СЕРВЕР — Rust | Авто-установка ботом
 
-✅ Perfect structure for a Rust clan or community!
-✅ Channels for raids, crafting, searching for teammates, and tournaments
-✅ Professional role hierarchy for the clan
-✅ No waiting — everything is installed automatically!
+✅ Идеальная структура для клана или сообщества Rust!
+✅ Каналы для рейдов, крафта, поиска напарников и турниров
+✅ Профессиональная иерархия ролей для клана
+✅ Без ожидания — всё устанавливается автоматически!
 
-📦 WHAT'S INCLUDED:
-• Categories: Survival, Raids, Clan, Tournaments, Staff
-• Roles (Leader, Officer, Veteran, Member, Recruit)
-• Voice lobbies for co-op play
-• Ticket system, verification, automoderation
-• 30 days of Premium for free!
+📦 ЧТО ВХОДИТ:
+• Категории: Выживание, Рейды, Клан, Турниры, Персонал
+• Роли (Лидер, Офицер, Ветеран, Участник, Новичок)
+• Голосовые лобби для совместной игры
+• Система тикетов, верификации, автомодерация
+• 30 дней Premium бесплатно!
 
-⚡ HOW TO GET IT:
-1. Add the bot to an empty server via the auto-delivery link
-2. Type the command !wizard
-3. Select language 🇬🇧 and the "Rust" template
-4. Done! 🎉
+⚡ КАК ПОЛУЧИТЬ:
+1. Добавьте бота на ваш пустой сервер по ссылке из автодоставки
+2. Введите команду !wizard
+3. Выберите язык 🇷🇺 и шаблон "Rust"
+4. Готово! 🎉
 ```
+
+</details>
+
+<details>
+<summary>🇬🇧 English version — click to expand</summary>
+
+```
+☢️ ГОТОВЫЙ DISCORD СЕРВЕР — Rust | Авто-бот (EN)
+
+✅ Идеальная структура для клана или сообщества Rust!
+✅ Каналы для рейдов, крафта, поиска напарников и турниров
+✅ Профессиональная иерархия ролей для клана
+✅ Без ожидания — всё устанавливается автоматически!
+
+📦 ЧТО ВХОДИТ:
+• Категории: Survival, Raids, Clan, Tournaments, Staff
+• Роли (Leader, Officer, Veteran, Member, Recruit)
+• Голосовые лобби для совместной игры
+• Система тикетов, верификации, автомодерация
+• 30 дней Premium бесплатно!
+
+⚡ КАК ПОЛУЧИТЬ:
+1. Добавьте бота на пустой сервер по ссылке из автодоставки
+2. Введите команду !wizard
+3. Выберите язык 🇬🇧 и шаблон "Rust"
+4. Готово! 🎉
+```
+
+</details>
 
 ---
+
+
 
 ## 📦 Auto-Delivery Text
 
