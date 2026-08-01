@@ -181,8 +181,7 @@ The bot has a **web control panel** on the website [gserver.online](https://gser
 
 ### 🎥 Lot 1 — YouTube / Twitch
 
-<details>
-<summary>🇷🇺 Russian version — click to expand</summary>
+#### 🇷🇺 Russian version
 
 ```
 🎥 ГОТОВЫЙ DISCORD СЕРВЕР — YouTube / Twitch | Авто-установка ботом
@@ -206,10 +205,9 @@ The bot has a **web control panel** on the website [gserver.online](https://gser
 4. Готово! Весь сервер настроен автоматически 🎉
 ```
 
-</details>
 
-<details>
-<summary>🇬🇧 English version — click to expand</summary>
+
+#### 🇬🇧 English version
 
 ```
 🎥 READY DISCORD SERVER — YouTube / Twitch | Auto-setup by bot
@@ -233,14 +231,13 @@ The bot has a **web control panel** on the website [gserver.online](https://gser
 4. Done! The entire server is set up automatically 🎉
 ```
 
-</details>
+
 
 ---
 
 ### 🛒 Lot 2 — Магазин / Фриланс
 
-<details>
-<summary>🇷🇺 Russian version — click to expand</summary>
+#### 🇷🇺 Russian version
 
 ```
 🛒 ГОТОВЫЙ DISCORD СЕРВЕР — Магазин / Фриланс | Авто-установка ботом
@@ -264,10 +261,9 @@ The bot has a **web control panel** on the website [gserver.online](https://gser
 4. Готово! 🎉
 ```
 
-</details>
 
-<details>
-<summary>🇬🇧 English version — click to expand</summary>
+
+#### 🇬🇧 English version
 
 ```
 🛒 READY DISCORD SERVER — Магазин / Фриланс | Auto-setup by bot
@@ -291,14 +287,13 @@ The bot has a **web control panel** on the website [gserver.online](https://gser
 4. Done! 🎉
 ```
 
-</details>
+
 
 ---
 
 ### 🌸 Lot 3 — Аниме
 
-<details>
-<summary>🇷🇺 Russian version — click to expand</summary>
+#### 🇷🇺 Russian version
 
 ```
 🌸 ГОТОВЫЙ DISCORD СЕРВЕР — Аниме | Авто-установка ботом
@@ -322,10 +317,9 @@ The bot has a **web control panel** on the website [gserver.online](https://gser
 4. Готово! 🎉
 ```
 
-</details>
 
-<details>
-<summary>🇬🇧 English version — click to expand</summary>
+
+#### 🇬🇧 English version
 
 ```
 🌸 READY DISCORD SERVER — Аниме | Auto-setup by bot
@@ -349,14 +343,13 @@ The bot has a **web control panel** on the website [gserver.online](https://gser
 4. Done! 🎉
 ```
 
-</details>
+
 
 ---
 
 ### 🌍 Lot 4 — Общение (Паблик)
 
-<details>
-<summary>🇷🇺 Russian version — click to expand</summary>
+#### 🇷🇺 Russian version
 
 ```
 🌍 ГОТОВЫЙ DISCORD СЕРВЕР — Общение (Паблик) | Авто-установка ботом
@@ -380,10 +373,9 @@ The bot has a **web control panel** on the website [gserver.online](https://gser
 4. Готово! 🎉
 ```
 
-</details>
 
-<details>
-<summary>🇬🇧 English version — click to expand</summary>
+
+#### 🇬🇧 English version
 
 ```
 🌍 READY DISCORD SERVER — Сообщество | Auto-setup by bot
@@ -407,14 +399,13 @@ The bot has a **web control panel** on the website [gserver.online](https://gser
 4. Done! 🎉
 ```
 
-</details>
+
 
 ---
 
 ### 🎯 Lot 5 — Apex Legends
 
-<details>
-<summary>🇷🇺 Russian version — click to expand</summary>
+#### 🇷🇺 Russian version
 
 ```
 🎯 ГОТОВЫЙ DISCORD СЕРВЕР — Apex Legends | Авто-установка ботом
@@ -438,10 +429,9 @@ The bot has a **web control panel** on the website [gserver.online](https://gser
 4. Готово! 🎉
 ```
 
-</details>
 
-<details>
-<summary>🇬🇧 English version — click to expand</summary>
+
+#### 🇬🇧 English version
 
 ```
 🎯 READY DISCORD SERVER — Apex Legends | Auto-setup by bot
@@ -465,14 +455,13 @@ The bot has a **web control panel** on the website [gserver.online](https://gser
 4. Done! 🎉
 ```
 
-</details>
+
 
 ---
 
 ### 🔫 Lot 6 — Valorant
 
-<details>
-<summary>🇷🇺 Russian version — click to expand</summary>
+#### 🇷🇺 Russian version
 
 ```
 🔫 ГОТОВЫЙ DISCORD СЕРВЕР — Valorant | Авто-установка ботом
@@ -496,10 +485,9 @@ The bot has a **web control panel** on the website [gserver.online](https://gser
 4. Готово! 🎉
 ```
 
-</details>
 
-<details>
-<summary>🇬🇧 English version — click to expand</summary>
+
+#### 🇬🇧 English version
 
 ```
 🔫 READY DISCORD SERVER — Valorant | Auto-setup by bot
@@ -523,14 +511,13 @@ The bot has a **web control panel** on the website [gserver.online](https://gser
 4. Done! 🎉
 ```
 
-</details>
+
 
 ---
 
 ### 💣 Lot 7 — CS2
 
-<details>
-<summary>🇷🇺 Russian version — click to expand</summary>
+#### 🇷🇺 Russian version
 
 ```
 💣 ГОТОВЫЙ DISCORD СЕРВЕР — CS2 | Авто-установка ботом
@@ -554,10 +541,9 @@ The bot has a **web control panel** on the website [gserver.online](https://gser
 4. Готово! 🎉
 ```
 
-</details>
 
-<details>
-<summary>🇬🇧 English version — click to expand</summary>
+
+#### 🇬🇧 English version
 
 ```
 💣 READY DISCORD SERVER — CS2 | Auto-setup by bot
@@ -581,14 +567,13 @@ The bot has a **web control panel** on the website [gserver.online](https://gser
 4. Done! 🎉
 ```
 
-</details>
+
 
 ---
 
 ### ⛏️ Lot 8 — Minecraft
 
-<details>
-<summary>🇷🇺 Russian version — click to expand</summary>
+#### 🇷🇺 Russian version
 
 ```
 ⛏️ ГОТОВЫЙ DISCORD СЕРВЕР — Minecraft | Авто-установка ботом
@@ -612,10 +597,9 @@ The bot has a **web control panel** on the website [gserver.online](https://gser
 4. Готово! 🎉
 ```
 
-</details>
 
-<details>
-<summary>🇬🇧 English version — click to expand</summary>
+
+#### 🇬🇧 English version
 
 ```
 ⛏️ READY DISCORD SERVER — Minecraft | Auto-setup by bot
@@ -639,14 +623,13 @@ The bot has a **web control panel** on the website [gserver.online](https://gser
 4. Done! 🎉
 ```
 
-</details>
+
 
 ---
 
 ### 🚗 Lot 9 — GTA V / SAMP
 
-<details>
-<summary>🇷🇺 Russian version — click to expand</summary>
+#### 🇷🇺 Russian version
 
 ```
 🚗 ГОТОВЫЙ DISCORD СЕРВЕР — GTA V / SAMP | Авто-установка ботом
@@ -670,10 +653,9 @@ The bot has a **web control panel** on the website [gserver.online](https://gser
 4. Готово! 🎉
 ```
 
-</details>
 
-<details>
-<summary>🇬🇧 English version — click to expand</summary>
+
+#### 🇬🇧 English version
 
 ```
 🚗 READY DISCORD SERVER — GTA V / SAMP | Auto-setup by bot
@@ -697,14 +679,13 @@ The bot has a **web control panel** on the website [gserver.online](https://gser
 4. Done! 🎉
 ```
 
-</details>
+
 
 ---
 
 ### 📱 Lot 10 — Mobile Legends
 
-<details>
-<summary>🇷🇺 Russian version — click to expand</summary>
+#### 🇷🇺 Russian version
 
 ```
 📱 ГОТОВЫЙ DISCORD СЕРВЕР — Mobile Legends | Авто-установка ботом
@@ -728,10 +709,9 @@ The bot has a **web control panel** on the website [gserver.online](https://gser
 4. Готово! 🎉
 ```
 
-</details>
 
-<details>
-<summary>🇬🇧 English version — click to expand</summary>
+
+#### 🇬🇧 English version
 
 ```
 📱 READY DISCORD SERVER — Mobile Legends | Auto-setup by bot
@@ -755,14 +735,13 @@ The bot has a **web control panel** on the website [gserver.online](https://gser
 4. Done! 🎉
 ```
 
-</details>
+
 
 ---
 
 ### 🧱 Lot 11 — Roblox
 
-<details>
-<summary>🇷🇺 Russian version — click to expand</summary>
+#### 🇷🇺 Russian version
 
 ```
 🧱 ГОТОВЫЙ DISCORD СЕРВЕР — Roblox | Авто-установка ботом
@@ -786,10 +765,9 @@ The bot has a **web control panel** on the website [gserver.online](https://gser
 4. Готово! 🎉
 ```
 
-</details>
 
-<details>
-<summary>🇬🇧 English version — click to expand</summary>
+
+#### 🇬🇧 English version
 
 ```
 🧱 READY DISCORD SERVER — Roblox | Auto-setup by bot
@@ -813,14 +791,13 @@ The bot has a **web control panel** on the website [gserver.online](https://gser
 4. Done! 🎉
 ```
 
-</details>
+
 
 ---
 
 ### ☢️ Lot 12 — Rust
 
-<details>
-<summary>🇷🇺 Russian version — click to expand</summary>
+#### 🇷🇺 Russian version
 
 ```
 ☢️ ГОТОВЫЙ DISCORD СЕРВЕР — Rust | Авто-установка ботом
@@ -844,10 +821,9 @@ The bot has a **web control panel** on the website [gserver.online](https://gser
 4. Готово! 🎉
 ```
 
-</details>
 
-<details>
-<summary>🇬🇧 English version — click to expand</summary>
+
+#### 🇬🇧 English version
 
 ```
 ☢️ READY DISCORD SERVER — Rust | Auto-setup by bot
@@ -871,7 +847,7 @@ The bot has a **web control panel** on the website [gserver.online](https://gser
 4. Done! 🎉
 ```
 
-</details>
+
 
 ---
 
