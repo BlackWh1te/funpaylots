@@ -853,17 +853,48 @@ The bot has a **web control panel** on the website [gserver.online](https://gser
 
 
 
-## 📦 Auto-Delivery Text
+## 📦 Auto-delivery text / Текст для автодоставки
+
+#### 🇷🇺 Русская версия (Russian)
+
+Скопируйте этот текст и вставьте в поле **«Автоматическая доставка»** лота на FunPay:
+
+```
+🎉 Спасибо за покупку! Вот ваша инструкция по получению сервера:
+
+1️⃣ Добавьте бота на ПУСТОЙ Discord сервер по этой ссылке:
+https://discord.com/api/oauth2/authorize?client_id=1517454018547417148&permissions=8&integration_type=0&scope=bot+applications.commands
+
+2️⃣ Зайдите на ваш сервер в Discord и введите команду:
+!wizard
+
+3️⃣ Бот отправит сообщение с кнопками:
+   • Нажмите 🇷🇺 для русского сервера
+   • Нажмите 🇬🇧 для английского сервера
+   • Выберите нужный шаблон из меню
+
+✅ Готово! Весь сервер (каналы, роли, категории) настроится автоматически.
+
+🎁 БОНУС — БЕСПЛАТНО +30 ДНЕЙ PREMIUM:
+Оставьте 1 отзыв на FunPay после получения сервера и напишите мне
+скриншот отзыва в чат — я активирую вам ещё 30 дней Premium бесплатно!
+
+❓ Если возникли вопросы — напишите мне в чат FunPay, я помогу!
+```
+
+
+
+#### 🇬🇧 Английская версия (English)
 
 Copy this text and paste it into the **"Automatic delivery"** field of the lot on FunPay:
 
 ```
 🎉 Thank you for your purchase! Here are your instructions for getting the server:
 
-1️⃣ Add the bot to an EMPTY Discord server via this link:
+1️⃣ Add the bot to an EMPTY Discord server using this link:
 https://discord.com/api/oauth2/authorize?client_id=1517454018547417148&permissions=8&integration_type=0&scope=bot+applications.commands
 
-2️⃣ Go to your Discord server and type the command:
+2️⃣ Go to your Discord server and enter the command:
 !wizard
 
 3️⃣ The bot will send a message with buttons:
@@ -873,11 +904,11 @@ https://discord.com/api/oauth2/authorize?client_id=1517454018547417148&permissio
 
 ✅ Done! The entire server (channels, roles, categories) will be set up automatically.
 
-🎁 BONUS — +30 DAYS PREMIUM FOR FREE:
-Leave 1 review on FunPay after getting the server and send me
-a screenshot of the review in chat — I will activate another 30 days of Premium for you for free!
+🎁 BONUS — FREE +30 DAYS PREMIUM:
+Leave 1 review on FunPay after receiving the server and send me
+a screenshot of the review in the chat — I will activate another 30 days of Premium for free!
 
-❓ If you have any questions — write to me in the FunPay chat, I will help!
+❓ If you have any questions, write to me in the FunPay chat, I will help!
 ```
 
 ---
